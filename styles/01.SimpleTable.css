@@ -1,0 +1,10 @@
+table{
+    border: solid 1px;
+    width: 450px;
+    
+}
+
+th{
+    font-size: 35px;
+    text-align: left;
+}

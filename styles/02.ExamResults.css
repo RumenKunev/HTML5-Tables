@@ -1,0 +1,26 @@
+table{
+    border: solid 1px;
+    width: 400px;
+}
+
+th{
+    text-align: left;
+    font-size: 25px;
+}
+ 
+table th, table td{
+    border: solid 1px;
+}
+
+thead td{
+    text-align: center;
+}
+
+tfoot{
+    text-align: right;
+}
+
+span{
+    font-weight: bold;
+    
+}
